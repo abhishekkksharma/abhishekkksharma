@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek sharma</h1>
-<h3 align="center">A passionate learner </h3>
+<h3 align="center">A passionate learner in the field of computer science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkksharma&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkksharma" /> </p>
 
@@ -19,6 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekkksharma&show_icons=true&locale=en" alt="abhishekkksharma" /></p>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhishekkksharma)](https://git.io/streak-stats)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkksharma&" alt="abhishekkksharma" /></p>
