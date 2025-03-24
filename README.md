@@ -22,9 +22,3 @@
 
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkksharma&" alt="abhishekkksharma" /></p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abhishekkksharma" alt="GitHub Streak" /></a>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhishekkksharma)](https://git.io/streak-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekkksharma)](https://github.com/anuraghazra/github-readme-stats)
