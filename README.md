@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abhishek sharma</h1>
 <h3 align="center">A passionate learner in the field of computer science</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkksharma&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkksharma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekkksharma" alt="abhishekkksharma" /></a> </p>
 
+- 🔭 I’m currently working on [GitInsights](https://abhishekkksharma.github.io/GitInsights/)
+
 - 🌱 I’m currently learning **JavaScript, C-Language, Frontend developement**
+
+- 👨‍💻 All of my projects are available at [https://portfolio-five-ivory-99.vercel.app/](https://portfolio-five-ivory-99.vercel.app/)
+
+- 📄 Know about my experiences [https://portfolio-five-ivory-99.vercel.app/Resume.pdf](https://portfolio-five-ivory-99.vercel.app/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
