@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekkksharma" alt="abhishekkksharma" /></a> </p>
 
-- 🔭 I’m currently working on [GitInsights](https://abhishekkksharma.github.io/GitInsights/)
-
 - 🌱 I’m currently learning **DSA along with Web development**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-five-ivory-99.vercel.app/](https://portfolio-five-ivory-99.vercel.app/)
