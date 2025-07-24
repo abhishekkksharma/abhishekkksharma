@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abhisheksharma7340733@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-five-ivory-99.vercel.app/Resume.pdf](https://portfolio-five-ivory-99.vercel.app/Resume.pdf)
+- 📄 Know about my experiences [https://portfolio-five-ivory-99.vercel.app/Resume.pdf]([https://portfolio-five-ivory-99.vercel.app/Resume.pdf](https://portfolio-five-ivory-99.vercel.app/MY%20RESUME.pdf))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
