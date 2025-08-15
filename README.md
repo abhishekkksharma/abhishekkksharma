@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA along with Web development**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-five-ivory-99.vercel.app/](https://abhish3ksharma.me/)
+- 👨‍💻 All of my projects are available at [https://abhish3ksharma.me/](https://abhish3ksharma.me/)
 
 - 📫 How to reach me **abhisheksharma7340733@gmail.com**
 
